@@ -1,24 +1,24 @@
-# 🏠 House Price Prediction Using Machine Learning
+# House Price Prediction Using Machine Learning
 
-## 📌 Project Overview
+## Project Overview
 
-This project predicts house prices using machine learning techniques. The objective is to estimate the price of a house based on various property features such as area, number of bedrooms, bathrooms, parking spaces, air conditioning, and furnishing status.
+This project predicts house prices using machine learning techniques. The goal is to estimate the price of a house based on various property features like area, number of bedrooms, bathrooms, parking spaces, air conditioning, and furnishing status.
 
-The project includes data exploration, preprocessing, model building, evaluation, and visualization.
+The project includes data exploration, cleaning, model building, evaluation, and visualization.
 
 ---
 
-## 🎯 Objective
+## Objective
 
 * Explore and understand the housing dataset.
-* Clean and preprocess the data.
+* Clean and process the data.
 * Train machine learning models for price prediction.
 * Compare the performance of different regression models.
 * Visualize the data and model results.
 
 ---
 
-## 🛠️ Technologies Used
+## Technologies Used
 
 * Python
 * Pandas
@@ -30,9 +30,9 @@ The project includes data exploration, preprocessing, model building, evaluation
 
 ---
 
-## 📂 Dataset
+## Dataset
 
-The project uses the **Housing.csv** dataset containing various house features and their corresponding prices.
+The project uses the **Housing.csv** dataset, which contains various house features and their corresponding prices.
 
 Features include:
 
@@ -55,7 +55,7 @@ Target Variable:
 
 ---
 
-## 🤖 Machine Learning Models
+## Machine Learning Models
 
 Two regression models were implemented:
 
@@ -69,7 +69,7 @@ The dataset was split into:
 
 ---
 
-## 📊 Model Performance
+## Model Performance
 
 ### Linear Regression
 
@@ -87,7 +87,7 @@ Linear Regression performed better than Random Forest on this dataset.
 
 ---
 
-## 📈 Visualizations
+## Visualizations
 
 The project includes:
 
@@ -97,7 +97,7 @@ The project includes:
 
 ---
 
-## 📁 Repository Structure
+## Repository Structure
 
 ```text
 House-Price-Prediction/
@@ -108,17 +108,16 @@ House-Price-Prediction/
 ├── histogram.png
 ├── heatmap.png
 ├── actual_vs_predicted.png
-└── README.md
 ```
 
 ---
 
-## 📌 Conclusion
+## Conclusion
 
-This project demonstrates how machine learning can be used to predict house prices using property features. Data preprocessing, feature engineering, model evaluation, and visualization played an important role in building an effective prediction model. Among the implemented models, **Linear Regression achieved better performance** on this dataset.
+This project shows how machine learning can predict house prices based on property features. Data cleaning, feature engineering, model evaluation, and visualization were key in building an effective prediction model. Among the models used, **Linear Regression achieved better performance** on this dataset.
 
 ---
 
-## 👩‍💻 Author
+## Author
 
 **Arshee Batliwala**
